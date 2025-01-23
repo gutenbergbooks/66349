@@ -13,11 +13,12 @@ Title: The Cosmic Courtship
 Author: Julian Hawthorne
 
 Release Date: September 22, 2021 [eBook #66349]
-[Most recently updated: November 21, 2022]
 
 Language: English
 
-Produced by: Robert Allen Lupton, Michael Tierney, and P. Alexander by
+Character set encoding: UTF-8
+
+Produced by Robert Allen Lupton, Michael Tierney, and P. Alexander by
 way of Cirsova Publishing.
 
 *** START OF THE PROJECT GUTENBERG EBOOK THE COSMIC COURTSHIP ***
